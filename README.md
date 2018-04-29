@@ -30,7 +30,7 @@ BAD | Wrong Email => Format Email salah
 
 
 ## Credit
-Terima kasih kepada pemilik `class/Instagram.php`. Mohon maaf saya tidak tahu siapa yang buat, dari awal saya punya (lupa dapat darimana) sudah tidak meninggalkan Copyright.
+Terima kasih kepada pemilik `src/Instagram.php`. Mohon maaf saya tidak tahu siapa yang buat, dari awal saya punya (lupa dapat darimana) sudah tidak meninggalkan Copyright.
 
 
 **Gunakan dengan bijak!**
