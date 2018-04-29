@@ -22,10 +22,10 @@ php run.php list-mail.txt
 ## Result
 Tentang result, dapat di lihat dibawah ini:
 ```
-error: 0 => Sukses login.
-error: 1 => Username & password benar, namun terkena checkpoint.
-error: 2 => Password salah & Gagal login.
-error: 0 => Username/email tidak terdaftar.
+OK => Email terkait terdaftar di Instagram
+BAD => Email terkait tidak terdaftar di Instagram
+BAD | Wrong Email => Format Email salah
+
 ```
 
 
