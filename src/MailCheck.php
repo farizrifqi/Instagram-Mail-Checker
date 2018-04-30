@@ -28,7 +28,7 @@ function check($listmail){
 			checking($email, $password, $devid, $ua, $key);
 		}
 	}else{
-		echo "--- INVALID PARAMETERS ---";
+		echo "--- INVALID PARAMETERS ---\n Gunakan:\n php Run.php <nama file txt>\n";
 		exit;
 	}
 	}
